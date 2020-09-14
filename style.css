@@ -1,0 +1,169 @@
+*
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    /*border-radius: 10px;*/
+}
+
+.box:nth-child(1)
+{
+    border: 2px solid black;
+    height: 100vh;
+    width: 33vw;
+}
+
+.box:nth-child(2)
+{
+    border: 2px solid black;
+    height: 100vh;
+    width: 33vw;
+}
+
+.box:nth-child(3)
+{
+    border: 4px solid black;
+    height: 100vh;
+    width: 33vw;
+}
+
+.container
+{
+    display: flex;
+    justify-content: center
+}
+
+.container2
+{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    height: 30%;
+}
+
+.container3
+{
+    width: 100%;
+    height: 100%;
+}
+
+.box1-purple
+{
+    background-color: purple;
+    width: auto;
+    height: 40%;
+}
+
+.box1-green
+{
+    background-color: green;
+    width: 50%;
+
+}
+
+.box1-blue
+{
+    background-color: blue;
+    height: 30%;
+}
+
+.box1-red
+{
+    background-color: red;
+    width: auto;
+    height: 70.1%;
+}
+
+.box1-green2
+{
+    background-color: rgb(77, 136, 77);
+    width: auto;
+    height: 30%;
+}
+
+/* other box*/
+
+
+.box2-green
+{
+    background-color: green;
+    width: 50%;
+}
+
+.box2-blue
+{
+    background-color: blue;
+    width: 100%;
+    height: 30%;
+}
+
+.box2-red
+{
+    background-color: red;
+    width: 100%;
+    height: 70.1%;
+}
+
+.box2-purple
+{
+    background-color: rgb(136, 43, 136);
+    height: 30%;
+}
+
+.box2-container1
+{
+    display: flex;
+    width: 100%;
+    height: 70%;
+}
+
+.box2-container2
+{
+    width: 100%;
+}
+
+/* other box*/
+
+
+.box3-container1
+{
+    display: flex;
+    height: 20%;
+}
+
+.box3-green
+{
+    background-color: green;
+    height: 20%;
+}
+
+.box3-blue
+{
+    background-color: blue;
+    width: 20%;
+}
+
+.box3-red
+{
+    background-color: red;
+    width: 80%;
+}
+
+.box3-purple
+{
+    background-color: purple;
+    height: 50%;
+}
+
+.box3-lightblue
+{
+    background-color: rgb(63, 63, 141);
+    height: 50%;
+}
+
+.box3-container2
+{
+    height: 60%;
+}
+
+/* galejau naduoti dar common classes del trumpesnio kodo, tik pamirsau tai padaryti*/
